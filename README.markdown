@@ -18,3 +18,10 @@ NOTE: Ensure that you are using an up-to-date version of Node.js, socket.io, and
 * coffee-script
 * eco
 * express
+
+Fork changes
+------------
+
+* I've added a simple package.json, but enough to actually make it work
+* I've added a config file, there is a type in the default one
+* I've added a dotcloud.yml to make it pushable on dotcloud
