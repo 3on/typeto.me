@@ -1,6 +1,6 @@
 {
   "host": "0.0.0.0",
   "port": 8080,
-  "publicHost": "localhost",
-  "analyticsCode": "UA-1231234-12"
+  "publicHost": "typetome-dotcloud-labs.dotcloud.com",
+  "analyticsCode": ""
 }
